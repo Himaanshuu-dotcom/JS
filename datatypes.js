@@ -11,3 +11,5 @@ let myobj={
     name:"himanshu",
     age:22,
 }
+
+// STACK(Primitive),HEAP(Non-Primitive)
